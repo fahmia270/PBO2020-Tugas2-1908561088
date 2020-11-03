@@ -1,0 +1,25 @@
+{
+    "userData": {
+        "userId": 1,
+        "username": "fahmia270",
+        "firstName": "Fahmi Ahmad",
+        "lastName": "Arum Pratama",
+        "password": "aseloleanjay};gxc",
+        
+        "timeStamps": {
+            "dateJoined": "24-Jul-2001",
+            "dateUpdated": "03-Nov-2020"
+        }
+    },
+    
+    "topics": [
+        {
+            "topicId": 1,
+            "topicName": "Topic XML JSON"
+        },
+        {
+            "topicID": 2,
+            "topicName": "Error di baris berikutnya"
+        }
+    ]
+}
