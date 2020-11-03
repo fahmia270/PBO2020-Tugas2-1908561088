@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserDataWithTopics>
+    <UserData>
+        <UserId>1</UserId>
+        <UserName>fahmia270</UserName>
+        <FirstName>Fahmi Ahmad</FirstName>
+        <LastName>Arum Pratama</LastName>
+        <Password 
+            hashAlgorithm="algoritmaX">
+            aseloleanjay};gxc
+        </Password>
+
+        <TimeStampts>
+            <DateJoined>24-Jul-2001</DateJoined>
+            <DateUpdated>03-Nov-2020</DateUpdated>
+        </TimeStampts>
+
+    </UserData>
+
+    <Topics>
+        <Topic>
+            <TopicId>1</TopicId>
+            <TopicName>Topic XML JSOn</TopicName>
+        </Topic>
+        <Topic>
+            <TopicId>2</TopicId>
+            <TopicName>Error di baris berikutnya</TopicName>
+        </Topic>
+    </Topics>
+
+</UserDataWithTopics>
